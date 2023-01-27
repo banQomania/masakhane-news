@@ -33,7 +33,7 @@ def main():
     feature_column = "headline"
     label_column = "category"
 
-    language_list = ['amh','eng','fra','hau','ibo','lin','pcm','run','swa','yor']
+    language_list = ['sna']
     print(language_list)
     for language in language_list:
         print('-------------------------------------------------')
